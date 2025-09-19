@@ -69,7 +69,7 @@ Countless talented athletes in India go undiscovered due to geographical and fin
 
 | Member               | Role                   | GitHub Profile                               |
 | -------------------- | ---------------------- | -------------------------------------------- |
-| **[Your Name]** | Team Lead & App Dev    | [your-username](https://github.com/your-username)    |
+| **[Samjith Raj Bondla]** | Team Lead & App Dev    | [SamjithRaj](https://github.com/SamjithRaj)    |
 | **[Teammate's Name]** | AI / ML Engineer       | [teammate-username](https://github.com/teammate-username) |
 | **[Teammate's Name]** | Backend & API Dev      | [teammate-username](https://github.com/teammate-username) |
 | **[Teammate's Name]** | UI/UX Designer         | [teammate-username](https://github.com/teammate-username) |
