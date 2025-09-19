@@ -67,8 +67,11 @@ Countless talented athletes in India go undiscovered due to geographical and fin
 * Python 3.9+
 * An Android or iOS device/emulator
 
-Member	Role	GitHub Profile
-[Your Name]	Team Lead & App Dev	your-username
-[Teammate's Name]	AI / ML Engineer	teammate-username
-[Teammate's Name]	Backend & API Dev	teammate-username
-[Teammate's Name]	UI/UX Designer	teammate-username
+| Member               | Role                   | GitHub Profile                               |
+| -------------------- | ---------------------- | -------------------------------------------- |
+| **[Your Name]** | Team Lead & App Dev    | [your-username](https://github.com/your-username)    |
+| **[Teammate's Name]** | AI / ML Engineer       | [teammate-username](https://github.com/teammate-username) |
+| **[Teammate's Name]** | Backend & API Dev      | [teammate-username](https://github.com/teammate-username) |
+| **[Teammate's Name]** | UI/UX Designer         | [teammate-username](https://github.com/teammate-username) |
+| **[Teammate's Name]** | Documentation & Pitch  | [teammate-username](https://github.com/teammate-username) |
+| **[Teammate's Name]** | Testing & QA           | [teammate-username](https://github.com/teammate-username) |
